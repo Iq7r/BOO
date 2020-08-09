@@ -32,9 +32,9 @@ banner() {
 
 printf " \n"
 
-printf " 🧡\n"
+printf " BOO\n"
 
-printf "            🧡wellcome🧡\n"
+printf "  wellcome\n"
 
 printf "\033[1;97m💛• ──────────── •💛\n"
 
