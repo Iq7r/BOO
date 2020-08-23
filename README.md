@@ -4,7 +4,7 @@ Auto Increase follower for instagram 💛
 
 ```
 
-git clone https://github.com/Iq7r/BOO.git
+https://github.com/Iq7r/BOO.git
 
 cd BOO
 
