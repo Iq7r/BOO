@@ -278,9 +278,9 @@ sleep 3
 
 done
 
-printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 900 secs...\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 60 secs...\e[0m\n"
 
-sleep 900
+sleep 60
 
 #unfollow
 
@@ -310,9 +310,9 @@ sleep 3
 
 done
 
-printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 900 secs...\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 60 secs...\e[0m\n"
 
-sleep 900
+sleep 60
 
 done
 
